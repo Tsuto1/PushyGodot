@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Files\\Godot\\Projects\\Pushy\\Pushy.csproj": {}
+  },
+  "projects": {
+    "D:\\Files\\Godot\\Projects\\Pushy\\Pushy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Files\\Godot\\Projects\\Pushy\\Pushy.csproj",
+        "projectName": "Pushy",
+        "projectPath": "D:\\Files\\Godot\\Projects\\Pushy\\Pushy.csproj",
+        "packagesPath": "C:\\Users\\tsuto\\.nuget\\packages\\",
+        "outputPath": "D:\\Files\\Godot\\Projects\\Pushy\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Files\\Godot\\Projects\\Pushy\\NuGet.Config",
+          "C:\\Users\\tsuto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

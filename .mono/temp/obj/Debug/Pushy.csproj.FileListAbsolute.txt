@@ -1,0 +1,9 @@
+D:\Files\Godot\Projects\Pushy\.mono\temp\obj\Debug\Pushy.csproj.AssemblyReference.cache
+D:\Files\Godot\Projects\Pushy\.mono\temp\obj\Debug\Pushy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Godot\Projects\Pushy\.mono\temp\obj\Debug\Pushy.AssemblyInfoInputs.cache
+D:\Files\Godot\Projects\Pushy\.mono\temp\obj\Debug\Pushy.AssemblyInfo.cs
+D:\Files\Godot\Projects\Pushy\.mono\temp\obj\Debug\Pushy.csproj.CoreCompileInputs.cache
+D:\Files\Godot\Projects\Pushy\.mono\temp\bin\Debug\Pushy.dll
+D:\Files\Godot\Projects\Pushy\.mono\temp\bin\Debug\Pushy.pdb
+D:\Files\Godot\Projects\Pushy\.mono\temp\obj\Debug\Pushy.dll
+D:\Files\Godot\Projects\Pushy\.mono\temp\obj\Debug\Pushy.pdb

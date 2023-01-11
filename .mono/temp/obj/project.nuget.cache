@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i01LosfuzcqGGScG9a0Ys7rcYzBCDYuHly29kFymXekgoKML2+RW/q4cxn25QcYbJhifioTaIZYls9TK/719UA==",
+  "success": true,
+  "projectFilePath": "D:\\Files\\Godot\\Projects\\Pushy\\Pushy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tsuto\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\tsuto\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
